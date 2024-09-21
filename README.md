@@ -1,4 +1,4 @@
-# GRAVIENT™: Disruptively Simple Gravity Energy Storage
+ # GRAVIENT™: Disruptively Simple Gravity Energy Storage
 
 **GRAVIENT™** is revolutionizing the energy storage landscape with its innovative gravity-based technology. We provide sustainable, reliable, and cost-effective grid-scale energy storage solutions.
 
@@ -22,8 +22,8 @@
 
 Stay updated on the latest news and developments from GRAVIENT™:
 
-- [**LinkedIn**]([your-linkedin-profile-link](https://www.linkedin.com/company/gravient-tech))
-- [**Quora**]([your-twitter-profile-link](https://www.quora.com/profile/Gravient-Solution)
+- [**LinkedIn**](https://www.linkedin.com/company/gravient-tech)
+- [**Quora**](https://www.quora.com/profile/Gravient-Solution)
 - [**Blog**](https://energystoragesolution.blogspot.com/)
 
 ## Join the GRAVIENT™ Revolution
