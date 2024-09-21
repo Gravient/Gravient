@@ -22,9 +22,9 @@
 
 Stay updated on the latest news and developments from GRAVIENT™:
 
-- [**LinkedIn**](your-linkedin-profile-link)
-- [**Twitter**](your-twitter-profile-link) 
-- [**YouTube**](your-youtube-channel-link) 
+- [**LinkedIn**]([your-linkedin-profile-link](https://www.linkedin.com/company/gravient-tech))
+- [**Quora**]([your-twitter-profile-link](https://www.quora.com/profile/Gravient-Solution)
+- [**Blog**](https://energystoragesolution.blogspot.com/)
 
 ## Join the GRAVIENT™ Revolution
 
